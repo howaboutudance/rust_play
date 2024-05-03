@@ -6,7 +6,6 @@
 # This script is run as root, so you can install things like packages and tools
 
 # set to fail on error and echo commands 
-set -e
 set -x
 
 ## update and install system dependencies for rust installation 
