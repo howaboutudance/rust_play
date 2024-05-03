@@ -5,7 +5,11 @@
 		"ms-vsliveshare.vsliveshare",
 		"matklad.rust-analyzer",
 		"serayuzgur.crates",
-		"vadimcn.vscode-lldb"
+		"vadimcn.vscode-lldb",
+		"vscodevim.vim",
+		"blinkshellinc.blink-fs",
+		"github.copilot",
+		"github.copilot-chat",
 	],
 	"dockerFile": "Dockerfile",
 	"settings": {
